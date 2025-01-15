@@ -1,0 +1,297 @@
+
+body{
+    background-image: url('cooking-table-background-with-spices-vegetables-top-view_255667-8739.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+.header{ 
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    border: solid #c0c0c0, 5px;
+    backdrop-filter: blur(5px);
+}
+h1 {
+    color:#c0c0c0;
+    text-align: left;
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+h2 {
+    color:#c0c0c0;
+    text-align: left;
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+p{
+    color:#c0c0c0;
+    text-align: left;
+    margin-left: 25px;
+    margin-bottom: 5px;  
+}
+.about{
+    font-size: x-large;
+    padding: 20px;
+    float: right;
+    margin-right: 25px;
+    margin-top: 50px;
+    border-radius: 25px;
+    border: solid #c0c0c0, 5px;
+}
+.aboutanc{
+    color:#c0c0c0;
+    text-decoration: none;
+}
+.dishes1{
+    display: flex;
+    justify-content: space-around;
+}
+.dishes2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.pizza{
+    width: 100px;
+    height: 150px; 
+    margin: 25px;
+    text-align: center;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #c0c0c0, 5px;
+    font-weight: bold;
+    backdrop-filter: blur(5px);
+
+}
+.pizzatext{
+    color:#c0c0c0;
+}
+.pizzarec{
+    color:#c0c0c0;
+    text-decoration: none;
+}
+.pizzaimg{
+    width: 80px;
+    height: 90px;
+}
+.kofta{
+    width: 100px;
+    height: 150px; 
+    margin: 25px;
+    text-align: center;
+    text-anchor: end;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #c0c0c0, 5px;
+    backdrop-filter: blur(5px);
+} 
+.koftatext{
+    color:#c0c0c0;
+}
+.koftarec{
+    color:#c0c0c0;
+    text-decoration: none;
+}
+.koftaimg{
+    width: 90px;
+    height: 100px;
+}
+.sas{
+    width: 100px;
+    height: 150px; 
+    margin: 25px;
+    text-align: center;
+    text-anchor: end;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #c0c0c0, 5px;
+    backdrop-filter: blur(5px);
+} 
+.sastext{
+    color:#c0c0c0;
+}
+.sasrec{
+    color:#c0c0c0;
+    text-decoration: none;
+}
+.sasimg{
+    width: 100px;
+    height: 70px;
+}
+.fac{
+    width: 100px;
+    height: 150px; 
+    margin: 25px;
+    text-align: center;
+    text-anchor: end;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #c0c0c0, 5px;
+    backdrop-filter: blur(5px);
+} 
+.factext{
+    color:#c0c0c0;
+}
+.facrec{
+    color:#c0c0c0;
+    text-decoration: none;
+}
+.facimg{
+    width: 80px;
+    height: 80px;
+}
+
+.Burimg{
+    width: 100px;
+    height: 90px;
+}
+.Bur{
+    width: 100px;
+    height: 150px; 
+    margin: 25px;
+    text-align: center;
+    text-anchor: end;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #c0c0c0, 5px;
+    backdrop-filter: blur(5px);
+} 
+.Burtext{
+    color:#c0c0c0;
+}
+.Burrec{
+    color:#c0c0c0;
+    text-decoration: none;
+}
+.Burimg{
+    width: 90px;
+    height: 90px;
+}
+.tacos{
+    width: 100px;
+    height: 150px; 
+    margin: 25px;
+    text-align: center;
+    text-anchor: end;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #c0c0c0, 5px;
+    backdrop-filter: blur(5px);
+} 
+.tacostext{
+        color:#c0c0c0;
+}
+.tacosrec{
+        color:#c0c0c0;
+    text-decoration: none;
+}
+.tacosimg{
+    width: 100px;
+    height: 90px;
+}
+.bc{
+
+    width: 100px;
+    height: 150px; 
+    margin: 25px;
+    text-align: center;
+    text-anchor: end;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #c0c0c0, 5px;
+    backdrop-filter: blur(5px);
+} 
+.bctext{
+        color:#c0c0c0;
+}
+.bcrec{
+        color:#c0c0c0;
+    text-decoration: none;
+}
+.bcimg{
+    width: 100px;
+    height: 90px;
+}
+.sushi{
+
+    width: 100px;
+    height: 150px; 
+    margin: 25px;
+    text-align: center;
+    text-anchor: end;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #c0c0c0, 5px;
+    backdrop-filter: blur(5px);
+} 
+.sushitext{
+        color:#c0c0c0;
+}
+.sushirec{
+        color:#c0c0c0;
+    text-decoration: none;
+}
+.sushiimg{
+    width: 100px;
+    height: 90px;
+}
+.crepe{
+
+    width: 100px;
+    height: 150px; 
+    margin: 25px;
+    text-align: center;
+    text-anchor: end;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #c0c0c0, 5px;
+    backdrop-filter: blur(5px);
+} 
+.crepetext{
+        color:#c0c0c0;
+}
+.creperec{
+    color:#c0c0c0;
+    text-decoration: none;
+}
+.crepeimg{
+    width: 100px;
+    height: 90px;
+}
+.gyros{
+
+    width: 100px;
+    height: 150px; 
+    margin: 25px;
+    text-align: center;
+    text-anchor: end;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid #c0c0c0, 5px;
+    backdrop-filter: blur(5px);
+} 
+.gyrostext{
+        color:#c0c0c0;
+}
+.gyrosrec{
+        color:#c0c0c0;
+    text-decoration: none;
+}
+.gyrosimg{
+    width: 100px;
+    height: 90px;
+}

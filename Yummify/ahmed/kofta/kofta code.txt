@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Kofta - A Taste of Egypt</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif; color: #ededed; margin: 18px 22px;
+            background: url('7YrobQvFFzw8aWsAUtoYXB-1200-80.jpg') no-repeat center center / cover;
+        }
+        .overlay, header, section { position: relative; }
+        .overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background-color: rgba(0, 0, 0, 0.7); z-index: 0;
+        }
+        header, .video-link { text-align: center; }
+        h1 { font-size: 30px; color: #fff; letter-spacing: 1px; margin: 12px 0; }
+        img { width: 120px; margin: 8px auto; border-radius: 8px; display: block; }
+        table {
+            width: 80%; margin: 20px auto; border-collapse: collapse;
+            background: rgba(255, 255, 255, 0.1);
+        }
+        th, td {
+            border: 1px solid #ccc; padding: 10px; color: #ededed;
+        }
+        p, .video-link a { color: rgba(255, 255, 255, 0.85); line-height: 1.6; }
+    </style>
+</head>
+<body>
+
+<div class="overlay"></div>
+
+<header>
+    <h1>Egyptian Kofta</h1>
+    <img src="Kofta-Kebab-0.jpg" alt="Egyptian Kofta">
+    <p>A Beloved Middle Eastern Dish</p>
+</header>
+
+<section>
+    <h2>What is Kofta?</h2>
+    <p>Kofta is an Egyptian favorite made from ground beef or lamb, mixed with onions, garlic, parsley, and spices. These flavorful skewers are grilled over open flames, giving a smoky aroma that's irresistible. Served with warm baladi bread, a splash of tahini, and fresh tomatoes, kofta is a true taste of Egypt's culinary tradition.</p>
+</section>
+
+<section>
+    <h2>Ingredients</h2>
+    <table>
+        <tr><th>Ingredient</th></tr>
+        <tr><td>Ground Beef or Lamb</td></tr>
+        <tr><td>Onions</td></tr>
+        <tr><td>Parsley</td></tr>
+        <tr><td>Garlic</td></tr>
+        <tr><td>Spices (cumin, coriander)</td></tr>
+        <tr><td>Salt and Pepper</td></tr>
+    </table>
+</section>
+
+<section class="video-link">
+    <p>Curious about making Kofta? <a href="https://youtu.be/7osmDimpz90?si=9KmiGgybLP2p95wa" target="_blank">Watch this video tutorial</a></p>
+</section>
+
+</body>
+</html>
+

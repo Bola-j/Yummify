@@ -1,0 +1,40 @@
+body{
+    background-image: url('https://i.pinimg.com/736x/c5/0d/b1/c50db17f544cf3857b5e32599aee0ac8.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color:#c0c0c0;
+}
+.content{    
+    background-color:rgba(0,0,0,0.4);
+    text-align: left;
+margin-top: -25px;
+margin-bottom: -25px;
+margin-right: -7px;
+margin-left: -7px;
+padding: auto;
+
+}
+video{
+    border: solid #c0c0c0, 3px;
+    border-radius:15px ;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+h1, h2, h3, h4,p,ul{
+        margin-left: 15px;
+}
+.home{
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-bottom: 15px;
+    margin-left: 17px;
+    padding-top: 15px;
+}
+.homeanc{
+    color:#c0c0c0;
+    text-decoration: none;
+}
